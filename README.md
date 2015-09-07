@@ -10,6 +10,6 @@ You'll also need the <i>alda execution file</i>, which you can install by copyin
 
 To play the music, navigate to the directory where the code is located and type the following:
 
-<code>alda run --file haydn.alda</code>
+<code>alda play --file haydn.alda</code>
 
 Visit <a href="http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/">here</a> for more information on Alda.
