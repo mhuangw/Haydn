@@ -8,7 +8,7 @@ You'll also need the <i>alda execution file</i>, which you can install by copyin
 
 <code>curl https://raw.githubusercontent.com/alda-lang/alda/master/bin/alda -o /usr/local/bin/alda && chmod +x /usr/local/bin/alda</code>
 
-To run the file, navigate to the directory where the code is located and type the following:
+To play the music, navigate to the directory where the code is located and type the following:
 
 <code>alda run --file haydn.alda</code>
 
