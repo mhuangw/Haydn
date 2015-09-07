@@ -1,1 +1,1 @@
-c d e f g
+piano: (tempo! 120, vol! 45) o5 c8 < r8 (quant 30) g8 r8 (quant 30) e8 r8 r8 (quant 30) a8 |
