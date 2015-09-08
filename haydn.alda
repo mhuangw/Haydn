@@ -1,3 +1,11 @@
-piano: (tempo! 120, vol! 45) o5 r2 c8 < r8 (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 | 
-(quant 30)d8 r8 r8 (quant 30)g8 (quant 30)c8 r8 r8 > e8 ~ | <f8 r8 r8 > d8 ~ < (quant30)e8 r8 r8 > (quant 30)c8 | 
-< d8 ~ a8 < a8 ~ b8 d8 ~ c8 r8 (quant 30)b8/d8 | d8/f8 ~ c8/e8 r8 d8/f8 f8/a8 ~ e8/g8 r8 (quant 30)d8/>b8 | 
+piano: (tempo! 120) o5 r2 (vol 45) (quant30)c8 r8 < (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 | 
+(quant 30)d8 r8 r8 (quant 30)g8 (quant 30)c8 r8 r8 > e8 ~ | 
+< f8 r8 r8 > d8 ~ < (quant30)e8 r8 r8 > (quant 30)c8 | 
+< d8 ~ a8 < a8 ~ b8 > d8 ~ c8 r8 < (quant 30)b8/d8 | 
+d8/f8 ~ c8/e8 r8 d8/f8 f8/a8 ~ e8/g8 r8 (quant 30)d8/>b8 | 
+f8/>d8 ~ <e8/>c8 r8 <b8/>d8 d2/f2 ~ c8/e8 r4. | 
+c8/e8/g8/>c8 r8 << b/>d/g r8 < g8/>c8/e8 r8 r8 b32 ~ a32 ~ g+32 ~ a32 | 
+(quant 30)d8 r8 r8 a32 ~ g32 ~ f+32 ~ g32 (quant 30)c8 r8 r8 > e | 
+< (quant 30)f8 r8 r8 > d8 ~ < (quant 30)e8 r8 r8 > c8 |
+< d8 f8/a8 e8/g8 ~ < b8 > (quant 30)c8 (quant 30)c8 r8 a32 ~ g32 ~ f+32 ~ g32 |
+< (quant 30)b8 (quant 30)b8 r8 > a32 ~ g32 ~ f+32 ~ g32 > c8 ~ e8 r16 < g16 a32 ~ g32 ~ f+32 ~ g32 |
