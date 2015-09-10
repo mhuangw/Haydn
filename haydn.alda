@@ -1,4 +1,4 @@
-piano: (tempo! 115) o5 r1 (vol 45) (quant30)c8 r8 < (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 
+piano: (tempo! 110) o5 r1 (vol 45) (quant30)c8 r8 < (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 
 (quant 30)d8 r8 r8 (quant 30)g8 (quant 30)c8 r8 r8 > e8 ~ 
 < f8 r8 r8 > d8 ~ < (quant30)e8 r8 r8 > (quant 30)c8 
 < d8 ~ a8 < a8 ~ b8 > d8 ~ c8 r8 < (quant 30)b8/d8 
@@ -27,3 +27,17 @@ g2 ~ f+16 ~ g16 ~ a16 ~ g16 ~ b16 ~ a16 ~ > c16 ~ < b16
 > c16 ~ < a16 ~ > e16 ~ d16 ~ c16 ~ < b16 ~ a16 ~ g16 ~ f+16 ~ e16 ~ d16 ~ c+16 ~ c16
 a8 r8 r16 d16 ~ f+16 ~ a16 > c16 ~ < d16 ~ f+16 ~ a16 > c16 ~ < d16 ~ f+16 ~ a16
 a2/>c2 ~ < f+2/a+2
+(quant 30)g8/b8 r8 (quant 30)d8/g8 r8 < (quant 30)b8/>d8 r8 r8 e8 ~
+< (quant 30)a8 r8 r8 > d8 ~ < (quant 30)g8 r8 r8 > > c8/e8 ~
+< f+8/a8 r8 r8 b8/>d8 ~ < e8/g8 r8 r8 > c
+< d16 ~ > c16 ~ < b16 ~ a+16 b16 ~ f+16 ~ g16 ~ d16 d+16 ~ e16 ~ g+16 ~ a16 g8 ~ f+8
+r16 g16/b16 ~ (quant 30)f+16/a16 a16/>c16 ~ < (quant 30)g16/b16 b16/>d16 ~ < (quant 30)a16/>c16 c16/e16 ~ < (quant 30)b16/>d16 r16 < a16/>c16 ~ < (quant 30)g8/b8 r16 c16/a16 ~
+< (quant 30)b16/>g16 g16/b16 ~ (quant 30)f+16/a16 a16/>c16 ~ < (quant 30)g16/b16 b16/>d16 ~ < (quant 30)a16/>c16 c16/e16 ~ < (quant 30)b16/>d16 r16 < a16/>c16 ~ < (quant 30)g8/b8 r16 c16/a16 ~
+< (quant 30)b16/>g16 g16/b16 ~ (quant 30)f+16/a16 a16/>c16 ~ < (quant 30)g16/b16 b16/>d16 ~ < (quant 30)a16/>c16 c16/e16 ~ < (quant 30)b16/>d16 r16 < a16/>c16 ~ < (quant 30)g8/b8 r16 c16/a16 ~
+< b2/>g2 < b2/>a-2 ~
+g4 c2/f+2
+< g4/>f4 ~ d4 ~ e4 ~ < b4 ~
+> c2/e2 ~ < b-2 ~ 
+> d4 ~ < a4 ~ b4 ~ > c4 ~
+< b8 > (quant 30)d8/g8/b8 (quant 30)d8/a8/>c8 < d8/g8/b8 e8/>c8/e8 r8 << a16. ~ b32 ~ > c16. ~ d32 
+< b8 > (quant 30)d8/g8/b8 (quant 30)d8/a8/>c8 < d8/g8/b8 e8/>c8/e8 r8 << f+16 ~ a16 > c16 ~ e16 ~ d16 ~ c16
