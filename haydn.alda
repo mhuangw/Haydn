@@ -1,61 +1,88 @@
 piano: (tempo! 110)
+
 V1: o5 r1 (vol 45) (quant30)c8 r8 < (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 
 V2: o3 (vol 45) r1 r2 r8 (quant 30)c8 < (quant 30)c8 r8
+
 V1: (quant 30)d8 r8 r8 (quant 30)g8 (quant 30)c8 r8 r8 > e8 ~ 
 V2: r8 > (quant 30)c8 < (quant 30)c8 r8 r8 > (quant 30)c8 < (quant 30)c8 r8
+
 V1: < f8 r8 r8 > d8 ~ < (quant30)e8 r8 r8 > (quant 30)c8 
 V2: r8 > c8 ~ < (quant 30)c8 r8 r8 > c8 ~ < (quant 30)c8 r8
+
 V1: < d8 ~ a8 < a8 ~ b8 > d8 ~ c8 r8 < (quant 30)b8/d8 
 V2: r8 > c8 ~ < (quant 30)c8 r8 r8 > c8 ~ < (quant 30)c8 r8
+
 V1: d8/f8 ~ c8/e8 r8 d8/f8 f8/a8 ~ e8/g8 r8 (quant 30)d8/>b8  
 V2: r8 > c8 ~ < (quant 30)c8 r8 r8 > c8 ~ < (quant 30)c8 r8
+
 V1: f8/>d8 ~ <e8/>c8 r8 <b8/>d8 d2/f2 ~ c8/e8 r4. 
 V2: r8 > c8 ~ < (quant 30)c8 r8 r2 r8 r4.
+
 V1: c8/e8/g8/>c8 r8 << b/>d/g r8 < g8/>c8/e8 r8 r8 b32 ~ a32 ~ g+32 ~ a32 
 V2: c8/e8/g8/>c8 r8 < g8/b8/>d8/g8 r8 c8/e8/g8/>c8 r8 r4
+
 V1: (quant 30)d8 r8 r8 a32 ~ g32 ~ f+32 ~ g32 (quant 30)c8 r8 r8 > e 
 V2: r8 (quant 30)f8/b8 (quant 30)f8/b8 r8 r8 (quant 30)e8/g8 (quant 30)e8/g8 r8
+
 V1: < (quant 30)f8 r8 r8 > d8 ~ < (quant 30)e8 r8 r8 > c8 ~ 
 V2: r16 d16 ~ c+16 ~ d16 ~ c16 ~ < b16 ~ a16 ~ g16 r16 > c16 ~ d16 ~ e16 ~ f16 ~ g16 ~ g+16 ~ a16
+
 V1: < d8 ~ f8/a8 e8/g8 ~ < b8 > (quant 30)c8 (quant 30)c8 r8 a32 ~ g32 ~ f+32 ~ g32 
 V2: f4 r8 g8 c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16
+
 V1: < (quant 30)b8 (quant 30)b8 r8 > a32 ~ g32 ~ f+32 ~ g32 > c8 ~ e8 r16 < g16 a32 ~ g32 ~ f+32 ~ g32 
 V2: d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16
+
 V1: < (quant 30)b8 (quant 30)b8 r16 > g16 a32 ~ g32 ~ f+32 ~ g32 > c8 ~ e8 r16 < g16 a32 ~ g32 ~ f+32 ~ g32 
 V2: d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16
+
 V1: < (quant 30)b8 (quant 30)b8 r8 > a32 ~ g32 ~ f+32 ~ g32 (quant 30)c8 a32 ~ g32 ~ f+32 ~ g32 (quant 30)d8 a32 ~ g32 ~ f+32 ~ g32 
 V2: d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ < b16/>d16 ~ g16 ~ < b16/>d16 ~ g16
+
 V1: (quant 30)e8 a32 ~ g32 ~ f+32 ~ g32 < (quant 30)b8 > a32 ~ g32 ~ f+32 ~ g32 (quant 30)c8 a32 ~ g32 ~ f+32 ~ g32 (quant 30)d8 a32 ~ g32 ~ f+32 ~ g32 
 V2: c16/e16 ~ g16 ~ c16/e16 ~ g16 ~ d16/f16 ~ g16 ~ d16/f16 ~ g16 ~ e16 ~ g16 ~ e16 ~ g16 ~ < b16/>d16 ~ g16 ~ < b16/>d16 ~ g16
+
 V1: (quant 30)e8 r8 r16 e16 ~ g16 ~ > c16 e4. < b16/>d16 < a16/>c16 ~ < g16/b16 ~ f16/a16 ~ e16/g16 
 V2: r16 c16 ~ e16 ~ g16 ~ > (quant 30)c8 r8 r4. r16 r4
+
 V1: d4./f4. ~ c8/e8 ~ (quant 30) < b8/>d8 r16 e16/g16 d+16/f+16 ~ e16/g16 ~ f16/a16 ~ e16/g16 
 V2: r16 < c+16 ~ d16 ~ e16 ~ f16 ~ e16 ~ f16 ~ f+16 ~ g16 ~ < g16 ~ > g16 r16 r4
+
 V1: (quant 30)d8/f8 r16 e16/g16 ~ c8/e8 r16 d16/f16 ~ < b8/>d8 r16 e16/g16 d+16/f+16 ~ e16/g16 ~ f16/a16 ~ e16/g16 
 V2: r16 g16 ~ < g8 r16 > g16 ~ < g8 r16 > g16 ~ < g8 r4
+
 V1: (quant 30)d8/f8 r16 f16/b16 ~ e8/>c8 r16 < c16/e16 ~ < b8/>d8 r16 c16/e16 < b16/>d16 ~ c16/e16 ~ < b16/>d16 ~ c16/e16 
 V2: r16 > g16 ~ < g8 r16 > g16 ~ < g8 r16 > g16 ~ < g8 r4
+
 V1: < (quant 30)b8/>d8 r16 << f+16 g16 ~ f+16 ~ g16 ~ f+16 ~ g8 r8 r4 
 V2: r8. < f+16 g16 ~ f+16 ~ g16 ~ f+16 ~ g8 r8 r4
+
 V1: r16 >> d16 ~ e16 ~ f+16 ~ g16 ~ a16 ~ b16 ~ > c16 ~ d16 ~ c16 ~ < b16 ~ a16 ~ g16 ~ a16 ~ b16 ~ g16 
 V2: > (quant 30)g8/>(quant 30)g8 r8 < (quant 30)d8/>(quant 30)d8 r8 << (quant 30)b8/>(quant 30)b8 r8 r8 (quant 30)e8/>(quant 30)e8
+
 V1: > c16 ~ < b16 ~ a16 ~ g16 ~ f+16 ~ g16 ~ a16 ~ f+16 ~ b16 ~ a16 ~ g16 ~ f+16 ~ e16 ~ d16 ~ c16 ~ < b16 
 V2: << (quant 30)a8/>(quant 30)a8 r8 r8 (quant 30)d8/>(quant 30)d8 << (quant 30)g4/>(quant 30)g4 r8 >> e8 ~
+
 V1: a16 ~ > g16 ~ f+16 ~ e16 ~ d16 ~ c16 ~ < b16 ~ a16 ~ g16 ~ > f+16 ~ e16 ~ d16 ~ c16 ~ < b16 ~ a16 ~ g16 
 V2: < f+8 r8 r8 > d8 ~ < e8 r8 r8 > c8 ~
+
 V1: f+16 ~ b16 ~ a16 ~ f+16 | d16 ~ > c16 ~ < b16 ~ g16 | d16 ~ > d16 ~ c16 ~ < a16 | d16 ~ > e16 ~ d16 ~ < b16
 V2: < d4 ~ b4 ~ f+4 ~ g4
+
 V1: g16 > a16 ~ g16 ~ f+16 ~ e16 ~ d16 ~ c+16 ~ < b16 ~ a16 ~ g16 ~ f+16 ~ e16 ~ d16 ~ c+16 ~ < b16 ~ a16
 V2: d2/e2/g2/>c+2 r2
+
 V1: g2 ~ f+16 ~ g16 ~ a16 ~ g16 ~ b16 ~ a16 ~ > c16 ~ < b16
 V2: r16 <<< d16 ~ a16 ~ > c+16 ~ d16 ~ c+16 ~ d16 ~ c+16 ~ d4 r4
+
 V1: > d16 ~ c16 ~ < a16 r8 > f+16 ~ d16 r8 ~ > c16 ~ < a16 r8 ~ > f+16 ~ d16 r16
 V2: r8. f+16 ~ d16 r8 > c16 ~ < a16 r8 > f+16 ~ d16 r8 > c16 ~ 
+
 V1: r16 > c16 ~ < a16 r8 ~ > e16 ~ d16 ~ c16 ~ < b16 ~ a16 ~ g16 ~ f+16 ~ e16 ~ d16 ~ c+16 ~ c16
 V2: < a16 r8 > f+16 ~ d16 r8. r2
+
 V1: a8 r8 r16 d16 ~ f+16 ~ a16 > c16 ~ < d16 ~ f+16 ~ a16 > c16 ~ < d16 ~ f+16 ~ a16
 V2: r16 < d16 ~ f+16 ~ a16 ~ > c8 r8 r2
+
 V1: a2/>c2 ~ < f+2/a+2
 V2: r1
-V1: (quant 30)g8/b8 r8 (quant 30)d8/g8 r8 < (quant 30)b8/>d8 r8 r8 e8 ~
-V2: r16 <<< g16 ~ a16 ~ b16 ~ > c16 ~ d16 ~ e16 ~ f+16 ~ g16 ~ f+16 ~ g16 ~ a16 ~ b8 r8
