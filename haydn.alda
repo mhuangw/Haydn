@@ -9,7 +9,7 @@ V1: (quant 30)d8 r8 r8 (quant 30)g8 (quant 30)c8 r8 r8 > e8 ~
 V2: r8 > (quant 30)c8 < (quant 30)c8 r8 r8 > (quant 30)c8 < (quant 30)c8 r8
 
 # Measure 3
-V1: < f8 r8 r8 > d8 ~ < (quant30)e8 r8 r8 > (quant 30)c8 
+V1: < f8 r8 r8 > d8 ~ < (quant 30)e8 r8 r8 > (quant 30)c8 
 V2: r8 > c8 ~ < (quant 30)c8 r8 r8 > c8 ~ < (quant 30)c8 r8
 
 # Measure 4
