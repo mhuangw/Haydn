@@ -1,7 +1,7 @@
 piano: (tempo! 110)
 
 # Measure 1
-V1: o5 (vol 45) r1 (quant30)c8 r8 < (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 
+V1: o5 (vol 45) r1 (quant 30)c8 r8 < (quant 30)g8 r8 (quant 30)e8 r8 r8 (quant 30)a8 
 V2: o3 (vol 40) r1 r2 r8 (quant 30)c8 < (quant 30)c8 r8
 
 # Measure 2
