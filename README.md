@@ -1,3 +1,5 @@
+#Haydn in Alda
+
 This is a project written in Alda, a music programming language. I'm translating the first movement of Haydn's Sonata No. 60 in C Major into code. 
 
 To run the code, you'll need the Clojure build tool <i>Boot</i>. If you're runing Mac OS X with Homebrew installed, you can install Boot by running the following:
