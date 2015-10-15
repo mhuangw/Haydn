@@ -16,5 +16,5 @@ Navigate to the directory where the code is located and type the following:
 
 <code>alda play --file haydn.alda</code>
 
-## More info
+### More info
 Visit <a href="http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/">here</a> for an official guide to Alda.
