@@ -1,4 +1,4 @@
-# Haydn in Alda
+# Haydn
 
 This is a project written in Alda, a music programming language. I'm translating the first movement of Haydn's Sonata No. 60 in C Major into code. 
 
