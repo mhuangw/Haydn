@@ -18,4 +18,4 @@ Navigate to the directory where the code is located and type the following:
 
 ### More info
 
-Visit <a href="http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/">here</a> for an official guide to Alda.
+Visit <a href="http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction">here</a> for an official guide to Alda.
